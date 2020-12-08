@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b044f29-1743-4249-946c-ae9e5ba18140" name="Default Changelist" comment="Improve supervisors coming soon page">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="1b044f29-1743-4249-946c-ae9e5ba18140" name="Default Changelist" comment="Improve supervisor styles" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../etp-admin-coming-soon-web-from-scratch-php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../etp-home-web-from-scratch-php" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -38,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607430546767</updated>
-      <workItem from="1607430548614" duration="2324000" />
+      <workItem from="1607430548614" duration="2596000" />
     </task>
     <task id="LOCAL-00001" summary="Add project files">
       <created>1607430564083</created>
@@ -61,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607433198407</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Improve supervisor styles">
+      <created>1607433537853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607433537853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +89,7 @@
     <MESSAGE value="Add project files" />
     <MESSAGE value="Remaining project files" />
     <MESSAGE value="Improve supervisors coming soon page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve supervisors coming soon page" />
+    <MESSAGE value="Improve supervisor styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve supervisor styles" />
   </component>
 </project>
