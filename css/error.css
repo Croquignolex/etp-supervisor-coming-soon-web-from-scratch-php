@@ -49,7 +49,7 @@ body {
     -ms-transform: scale(2.4);
     transform: scale(2.4);
     border-radius: 50%;
-    background-color: #e9c1cd;
+    background-color: #fee4c8;
     z-index: -1;
 }
 
@@ -59,7 +59,7 @@ body {
     font-weight: 700;
     margin-top: 0px;
     margin-bottom: 10px;
-    color: #e90c59;
+    color: #f8931f;
     text-transform: uppercase;
 }
 
