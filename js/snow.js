@@ -24,7 +24,7 @@ $(document).ready(function() {
         function go(){
             window.requestAnimationFrame(go);
             $.clearRect(0, 0, w, h);
-            $.fillStyle = 'hsl(339,78%,16%)';
+            $.fillStyle = 'hsl(26,72%,22%)';
             $.fillRect(0, 0, w, h);
             $.fill();
             for (var i = 0; i < arr.length; ++i) {
