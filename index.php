@@ -10,10 +10,10 @@
 
         <meta name="robots" content="noindex">
         <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="base-url" content="https://etp-admin.moyo-industry.com/">
+        <meta name="base-url" content="https://etp-supervisor.moyo-industry.com/">
         <meta name="locale" content="fr">
 
-        <title>Admin MMAC</title>
+        <title>Superviseur - MMAC</title>
 
         <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
@@ -28,7 +28,7 @@
         <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
         <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
-<!--        <link rel="manifest" href="img/favicon/manifest.json">-->
+
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
@@ -42,7 +42,7 @@
         <meta property="og:ttl" content="0" />
 
         <meta property="og:description" content="MMAC">
-        <meta property="og:url" content="https://etp-admin.moyo-industry.com/" />
+        <meta property="og:url" content="https://etp-supervisor.moyo-industry.com/" />
         <meta property="og:image" content="img/logo.png" />
         <meta property="twitter:image" content="img/logo.png" />
 
@@ -64,10 +64,10 @@
                         <div class="col-md-5 col-sm-12 mt-30">
                             <div class="page-logo col-sm-12"><img src="img/logo.png" alt="logo" class="logo"></div>
                             <div class="countdown-content countdown-text col-sm-12">
-                                <h1>Bientôt les <span>admin</span> auront le controle...</h1>
+                                <h1>Bientôt les <span>superviseurs</span> auront le controle...</h1>
                                 <p>
-                                    L'administrateur d'une applicatin web est en charge des activités de suivi
-                                    d'exploitation (gestion des traitements et des données) liées à celle-ci.
+                                    Le rôle superviseur de MMAC est en charge de la gestion des
+                                    entités interagissant entre elles, du contrôle et du reporting des activités.
                                 </p>
                             </div>
                         </div>

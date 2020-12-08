@@ -1,1 +1,1 @@
-# etp-admin-coming-soon-web-from-scratch-html
+# etp-supervisor-coming-soon-web-from-scratch-html
